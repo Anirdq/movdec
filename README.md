@@ -149,6 +149,7 @@ options:
 ## Dashboard Screenshot
 
 The live matplotlib dashboard opens automatically (use `--no-plot` to disable):
+<img width="1621" height="970" alt="Screenshot 2026-04-18 202415" src="https://github.com/user-attachments/assets/614f3bea-ab5c-4be5-8de1-a877675e2646" />
 
 - **Panel 1 — RSSI Signal**: Raw (blue) vs smoothed moving-average (coral) in dBm  
 - **Panel 2 — Variance**: Sliding-window variance (lavender) with red dashed threshold line  
